@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1523975378 source:/home/khaledkaddour/c project/DES/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	"Linked_list.h"
+	"Structuers.h"
+
+1523974943 source:/home/khaledkaddour/c project/DES/linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	"Linked_list.h"
+	"Structuers.h"
+
+1523900130 /home/khaledkaddour/c project/DES/Linked_list.h
+
+1523899187 /home/khaledkaddour/c project/DES/Structuers.h
+
+1523899218 source:/home/khaledkaddour/c project/DES/Structuers.c
+	<stdio.h>
+	<stdlib.h>
+	"Structuers.h"
+
+1523970342 source:/home/khaledkaddour/c project/DES/Queue.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1523970289 /home/khaledkaddour/c project/DES/Queue.h
+
